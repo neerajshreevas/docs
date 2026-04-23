@@ -1,0 +1,294 @@
+# Conversive Recruitment Journey Workflow (Mintlify Prototype)
+
+Based on recruitment workflow best practices and standard ATS onboarding flow—from requisition to onboarding—the ideal recruitment journey includes Job Requisition → Candidate Pipeline → Interview Management → Offer → Onboarding. Typical stages include New Applications → Screening → Phone Screen → Interview → Assessment → Reference Check → Offer → Hired → Onboarding ([Mintlify][1])
+
+---
+
+## Workflow: Conversive Recruitment Journey
+
+```text
+START
+   ↓
+1. Hiring Request Raised
+   ↓
+2. Job Requisition Approval
+   ↓
+3. Job Posting Published
+   ↓
+4. Candidate Application Submission
+   ↓
+5. Resume Screening
+   ↓
+6. HR Shortlisting
+   ↓
+7. Initial HR Interview
+   ↓
+8. Technical / Functional Interview
+   ↓
+9. Leadership / Final Interview
+   ↓
+10. Candidate Evaluation & Feedback
+   ↓
+11. Offer Approval
+   ↓
+12. Offer Letter Release
+   ↓
+13. Candidate Acceptance
+   ↓
+14. Pre-boarding Documentation
+   ↓
+15. IT + Admin + HR Onboarding
+   ↓
+16. Day-1 Joining Experience
+   ↓
+17. Probation + Confirmation
+   ↓
+END
+```
+
+---
+
+# Detailed Step-by-Step Workflow for Mintlify
+
+---
+
+## Phase 1 — Requirement Identification
+
+### Step 1: Hiring Request Raised
+
+### Owner:
+
+Hiring Manager
+
+### Actions:
+
+* Raise manpower request
+* Define role
+* Department details
+* Budget approval
+* Justification for hiring
+
+### Output:
+
+Approved Hiring Request
+
+---
+
+## Phase 2 — Recruitment Initiation
+
+### Step 2: Job Requisition Approval
+
+### Owner:
+
+HR + Finance + Leadership
+
+### Actions:
+
+* Validate business need
+* Budget verification
+* Final approval
+
+### Output:
+
+Approved Job Requisition
+
+---
+
+## Phase 3 — Candidate Attraction
+
+### Step 3: Job Posting Published
+
+### Channels:
+
+* Company Career Page
+* LinkedIn
+* Naukri
+* Referrals
+* Internal Job Board
+
+### Output:
+
+Applications Received
+
+---
+
+## Phase 4 — Candidate Screening
+
+### Step 4: Resume Screening
+
+### Owner:
+
+Talent Acquisition Team
+
+### Actions:
+
+* Resume review
+* Qualification match
+* Experience validation
+* Skill relevance check
+
+### Output:
+
+Shortlisted Candidates
+
+---
+
+## Phase 5 — Interview Process
+
+### Step 5: Multi-Level Interviews
+
+### Stages:
+
+### Round 1:
+
+HR Screening
+
+### Round 2:
+
+Technical Assessment
+
+### Round 3:
+
+Hiring Manager Discussion
+
+### Round 4:
+
+Leadership / Cultural Fit
+
+### Output:
+
+Final Selection
+
+Structured interview scheduling and scorecards improve consistency and candidate experience ([Mintlify][1])
+
+---
+
+## Phase 6 — Selection & Offer
+
+### Step 6: Offer Management
+
+### Actions:
+
+* Salary fitment
+* Approval workflow
+* Offer release
+* Negotiation handling
+
+### Output:
+
+Offer Accepted
+
+---
+
+## Phase 7 — Preboarding
+
+### Step 7: Documentation Collection
+
+### Documents:
+
+* PAN / Aadhaar
+* Educational Certificates
+* Previous Employment Proof
+* Bank Details
+* Address Proof
+* NDA / Compliance Forms
+
+### Output:
+
+Ready for Joining
+
+Digital document collection reduces delays and improves onboarding efficiency ([recruitonline.ai][2])
+
+---
+
+## Phase 8 — Onboarding
+
+### Step 8: Joining Preparation
+
+### Teams Involved:
+
+* HR
+* IT
+* Admin
+* Reporting Manager
+
+### Actions:
+
+* Laptop allocation
+* ID card
+* Email access
+* System access
+* Welcome kit
+* Induction schedule
+
+### Output:
+
+Successful Day-1 Joining
+
+---
+
+## Phase 9 — Employee Integration
+
+### Step 9: Confirmation Journey
+
+### Actions:
+
+* 30-60-90 day review
+* Training completion
+* Performance review
+* Confirmation letter
+
+### Output:
+
+Employee Confirmed
+
+---
+
+# Recommended Mintlify Sidebar Structure
+
+```text
+Recruitment Journey
+├── Overview
+├── Hiring Request
+├── Job Requisition
+├── Candidate Sourcing
+├── Resume Screening
+├── Interview Process
+├── Offer Management
+├── Preboarding
+├── Onboarding
+├── Probation & Confirmation
+├── SLA & TAT Matrix
+├── Roles & Responsibilities
+├── Recruitment Dashboard
+└── Recruitment Analytics
+```
+
+---
+
+# Best Interactive Components for Mintlify
+
+You should add:
+
+### Timeline Component
+
+### Step Cards
+
+### Workflow Diagram
+
+### Status Tracker
+
+### Approval Matrix Table
+
+### Candidate Pipeline Board
+
+### FAQ Section
+
+### Recruitment KPI Dashboard
+
+---
+
+This structure will make Conversive’s recruitment documentation look like a world-class onboarding center rather than a static SOP.
+
+[1]: https://www.mintlify.com/Rampop01/HR-Platform/features/recruitment?utm_source=chatgpt.com "Recruitment - HCMatrix"
+[2]: https://www.recruitonline.ai/onboarding?utm_source=chatgpt.com "RecruitOnline | Onboarding"
